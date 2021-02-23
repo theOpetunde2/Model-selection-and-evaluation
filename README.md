@@ -35,3 +35,7 @@ A 5-question quiz on model selection and model evaluation
 
 ## Bias vs Variance trade-offs
 Talk about underfitting and overfitting and how to balance both in real-life cases using the bias-variance tradeoff
+
+### References
+
+1) https://neptune.ai/blog/the-ultimate-guide-to-evaluation-and-selection-of-models-in-machine-learning
