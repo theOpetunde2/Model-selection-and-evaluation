@@ -4,7 +4,7 @@ In this lesson, we will learn how to select machine learning models and evaluate
 
 ### Learning Goals
 
- 1. Understand the value of model selection and model evaluation are
+ 1. Understand the value of model selection and model evaluation
  2. Know the types of model selection
  3. Know the most common model evaluation types and their peculiarities
  4. Understand the ML tradeoffs and when to apply them
